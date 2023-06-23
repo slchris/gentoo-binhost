@@ -1,4 +1,4 @@
-# Gentoo Binhost
+# Gentoo x86_64-pc-linux-gnu binpkg
 
 
-Use this [project](https://github.com/coldnew/gentoo-binhost) to distribute gentoo binpkg.
+
